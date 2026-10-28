@@ -496,7 +496,7 @@ export const LandingPage: React.FC = () => {
                 <span>CareerTrack</span>
               </div>
               <p className="text-xs text-slate-400 leading-relaxed">
-                Platform pelacakan lamaran kerja pribadi dan rekrutmen perusahaan berbasis web yang dirancang untuk dikembangkan dengan Laravel 11 & MySQL.
+                Platform pelacakan lamaran kerja pribadi dan rekrutmen perusahaan berbasis web yang dirancang untuk dikembangkan dengan Laravel 11 & SQLite.
               </p>
             </div>
 
@@ -515,7 +515,7 @@ export const LandingPage: React.FC = () => {
               <ul className="space-y-2">
                 <li><span>Backend: Laravel 11 (PHP 8.3)</span></li>
                 <li><span>Frontend: Blade + Tailwind CSS</span></li>
-                <li><span>Database: MySQL 8.0 (3NF)</span></li>
+                <li><span>Database: SQLite (Default Laravel 11)</span></li>
                 <li><span>Cloud: VPS / Cloud Container</span></li>
               </ul>
             </div>

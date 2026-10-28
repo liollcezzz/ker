@@ -86,7 +86,7 @@ export const Navbar: React.FC = () => {
               className="flex items-center gap-1.5 hover:text-slate-900 transition-colors whitespace-nowrap text-slate-600"
             >
               <Layers className="w-4 h-4 text-blue-600" />
-              <span>Blueprint Laravel 11</span>
+              <span>Blueprint Laravel 11 + SQLite</span>
             </button>
             <button
               onClick={() => {
