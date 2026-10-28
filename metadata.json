@@ -1,0 +1,6 @@
+{
+  "name": "CareerTrack",
+  "description": "Platform pelacakan lamaran kerja pribadi dan sistem rekrutmen perusahaan modern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
